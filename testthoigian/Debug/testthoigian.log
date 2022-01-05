@@ -1,0 +1,4 @@
+﻿  testthoigian.cpp
+C:\Users\tranb\source\repos\testthoigian\testthoigian\testthoigian.cpp(464,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tranb\source\repos\testthoigian\testthoigian\testthoigian.cpp(528,7): warning C4101: 'keysearch': unreferenced local variable
+  testthoigian.vcxproj -> C:\Users\tranb\source\repos\testthoigian\Debug\testthoigian.exe
